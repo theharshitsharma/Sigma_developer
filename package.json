@@ -1,0 +1,24 @@
+{
+  "name": "mini-project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000i\u0000g\u0000m\u0000a\u0000_\u0000d\u0000e\u0000v\u0000e\u0000l\u0000o\u0000p\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theharshitsharma/Sigma_developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/theharshitsharma/Sigma_developer/issues"
+  },
+  "homepage": "https://github.com/theharshitsharma/Sigma_developer#readme",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
